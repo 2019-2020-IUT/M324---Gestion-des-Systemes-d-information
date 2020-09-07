@@ -47,6 +47,7 @@ On peut décomposer une entreprise système de différentes façon :
 ### A - Définitions
 
 ``Définition simple :`` La régulation est le fait d'atteindre les objectifs.
+
 ``Définition complète :`` La régulation est le fait de mettre tous les moyens en œuvre pour atteindre les objectifs.
 
 ### B - Les Différents modes de régulation
