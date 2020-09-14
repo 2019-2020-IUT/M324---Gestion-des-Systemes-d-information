@@ -12,17 +12,17 @@
 
 * Un système d'informations est un ensemble de **ressources**, de **méthodes** et **modèles**destinés au **traitement** des différentes **formes d'informations**.
 
-1.Ressources
+1. Ressources
 	* Ressources Humaine
 	* Ressources Matérielles
 	* Ressources Financières
 	* Ressources Temps
-2.Méthodes et Modèles
+2. Méthodes et Modèles
 	* Mathématiques
 	* Informatique
 	* Organisationelle
 	* Comptable
-3.Traitement
+3. Traitement
 	* Collecter/Saisir/Créer
 	* Modifier/Trier/Rechercher/Comparer/Calculer
 	* Sauvegarder/Archiver
