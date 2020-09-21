@@ -10,7 +10,7 @@
 
 ## - Systèmes d'Information
 
-* Un système d'informations est un ensemble de **ressources**, de **méthodes** et **modèles**destinés au **traitement** des différentes **formes d'informations**.
+* Un système d'informations est un ensemble de **ressources**, de **méthodes** et **modèles** destinés au **traitement** des différentes **formes d'informations**.
 
 1. Ressources
 	* Ressources Humaine
