@@ -33,3 +33,35 @@
 	* Kanban
 	* Analyse et conception informatique (UML et management projet)
 	* **Il faut communiquer __la bonne information__ à __la bonne personne__ au __bon moment__ sur le __bon support__**
+
+## Systèmes d'information manuels et systèmes informatiques
+
+|Système Information manuel|Système Information informatique|
+|--|--|
+|Traitement 100 % humain|Traitement 100% machine|
+|↘|↗|
+|Traitement lent|Traitement rapide|
+|Acceptable pour des volumes d'informations faibles|De préférence pour des volumes importants d'informations|
+|Tâches non routinières, plutôt intellectuelles, plutôt difficile|Tâches automatisables, répétitives|
+
+## Les Sous-Systèmes de système d'information
+
+Les sous systèmes d'un système d'information sont :
+* Matériel et logiciels de base
+* Direction et Administration
+	* Planification informatique
+	* Recrutement du personnel informatique
+	* Évaluation de la performence informatique
+	* Répartition des ressources informatques)
+* Exploitation
+	* Traitement et maintenance
+		* Utilisation des ressources
+		* Les programmes et les données
+		* Contrôle des traitements
+		* Maintenance des logiciels
+		* Les maintenances du matétiel
+	* Sécurité Pure
+	* Sauvegarde
+* Développement d'application
+	* Développement
+	* Maintenance
